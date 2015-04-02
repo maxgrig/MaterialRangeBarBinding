@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialRangeBarBinding", "MaterialRangeBarBinding\MaterialRangeBarBinding.csproj", "{7047929E-D0C8-48F5-A4FC-BD5AC0312546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialRangeBarBinding_Sample", "MaterialRangeBarBinding_Sample\MaterialRangeBarBinding_Sample.csproj", "{64167A5B-A663-4CD8-AACF-E02E4033C7F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64167A5B-A663-4CD8-AACF-E02E4033C7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64167A5B-A663-4CD8-AACF-E02E4033C7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64167A5B-A663-4CD8-AACF-E02E4033C7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64167A5B-A663-4CD8-AACF-E02E4033C7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7047929E-D0C8-48F5-A4FC-BD5AC0312546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7047929E-D0C8-48F5-A4FC-BD5AC0312546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7047929E-D0C8-48F5-A4FC-BD5AC0312546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7047929E-D0C8-48F5-A4FC-BD5AC0312546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
