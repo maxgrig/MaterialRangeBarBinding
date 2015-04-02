@@ -1,0 +1,3 @@
+[submodule "material-range-bar"]
+	path = material-range-bar
+	url = https://github.com/oli107/material-range-bar
